@@ -28,7 +28,7 @@ run('some thing', 'done!')
 // => "done!"
 ```
 
-More example can be found [here](https://github.com/dotjov/ksp/blob/master/examples/) (eg. callback function/promise)
+More example can be found [here](https://github.com/dotjov/ksp/blob/master/examples/) (eg. callback function/promise/return)
 
 ## Methods
 
