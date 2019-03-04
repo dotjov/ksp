@@ -6,7 +6,9 @@
 
 A simple framework for build your app more easiest !
 
-**To improve the usefulness of ksp, I will create modules like ksp-express, which will allow you to create websites in a few lines. I will update this section.**
+**Active modules**
+
+- [ksp-express](https://www.npmjs.com/package/ksp-express) (Create a express web site with ksp framework)
 
 ## Install
 
