@@ -1,5 +1,7 @@
 const sls = {}
 
+module.exports.use = function () {}
+
 module.exports.createKsp = function (name, run) {
     if (typeof name !== 'string') throw new TypeError('The function `createKsp` need a string to the 1st parameter!')
     if (typeof run !== 'function') throw new TypeError('The function `createKsp` need a function to the 2nd parameter!')
