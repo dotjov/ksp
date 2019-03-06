@@ -24,7 +24,6 @@
     "@types/node": "^11.10.4",
     "assert": "^1.4.1",
     "codecov": "^3.2.0",
-    "coveralls": "^3.0.3",
     "mocha": "^6.0.2",
     "nyc": "^13.3.0",
     "typescript": "^3.3.3333"

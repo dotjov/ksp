@@ -67,6 +67,10 @@ $ npm install
 $ npm run test
 ```
 
+## Debug
+
+Ksp support [debug](https://www.npmjs.com/package/debug), set `DEBUG = 'ksp'`. It will print when a ksp has been run or create and a module has been added
+
 ## License
 
 MIT License
