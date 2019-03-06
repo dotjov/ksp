@@ -1,7 +1,7 @@
 # ksp
 
 [![Build Status](https://travis-ci.org/dotjov/ksp.svg?branch=master)](https://travis-ci.org/dotjov/ksp)
-[![Coverage Status](https://coveralls.io/repos/github/dotjov/ksp/badge.svg?branch=master)](https://coveralls.io/github/dotjov/ksp?branch=master)
+[![codecov](https://codecov.io/gh/dotjov/ksp/branch/master/graph/badge.svg)](https://codecov.io/gh/dotjov/ksp)
 [![npm version](https://img.shields.io/npm/v/ksp.svg)](https://www.npmjs.com/package/ksp)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/ksp.svg)](https://www.npmjs.com/package/ksp)
 
